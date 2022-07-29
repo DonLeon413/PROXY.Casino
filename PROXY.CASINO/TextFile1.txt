@@ -1,0 +1,9 @@
+﻿{
+"url": "https://www.exactchange.es/casino/api/v2/jugador?documento=11111&fecha-nacimiento=1990-10-03",
+"method": "Get",
+"output_file": "textFileResult.txt",
+"headers": [
+	{ "name": "header1", "value" : "header1_value" },
+	{ "name": "header2", "value" : "header2_value" }
+]
+}
